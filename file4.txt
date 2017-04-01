@@ -1,0 +1,29 @@
+Ringkasan Materi
+
+A. Method Void pada Java
+
+Method merupakan suatu program yang terletak terpisah dari program utama, tetapi
+tetap merupakan bagian dari program yang dibuat. Dengan menggunakan method dapat
+membuat program menjadi lebih mudah dimengerti dan mudah dalam pendokumentasian.
+Method void merupakan sebuah method yang tidak mengembalikan nilai yang ada pada
+method tersebut. Berikut merupakan contoh dari penggunaan method void pada java
+public void cobaMethod(){
+  System.out.print("method void");
+}
+
+B. Method Return Value pada Java
+
+Method return value merupakan method yang mengembalikan suatu nilai ketika
+kembali ke program utamanya disertai dengan membawa suatu nilai. Berikut merupakan
+contoh dari penggunaan method return value pada java (Prak_retval.java)
+
+C. Method Return Value Menggunakan Array Parameter pada Java
+Method return value dengan menggunakan parameter array pada dasarnya sama seperti
+method return value berparameter variable hanya saja tipe data nilai yang kembali berupa
+array atau integer. Berikut merupakan contoh dari penggunaan method return value
+menggunakan parameter array pada java (Prak_arr_retval.java)
+
+D. Method Rekursif pada Java
+Method rekursif merupakan suatu method/statement yang berfungsi untuk memanggil
+dirinya sendiri. Berikut merupakan contoh dari penggunaan method rekursif pada java
+(Prak_rekursif.java)
